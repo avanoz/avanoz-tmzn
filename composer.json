@@ -1,7 +1,7 @@
 {
     "name": "avanoz/tmzn",
     "description": "Demo package to show time",
-    "keywords": ["log","logging"],
+    "keywords": ["laravel","timezone"],
     "type": "library",
     "homepage": "https://github.com/avanoz/avanoz-tmzn",
     "require": {
@@ -14,5 +14,11 @@
             "email": "avanoz.maximus@gmail.com",
             "homepage": "http://tektokan.com"
         }
-    ]
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Avanoz\\Tmzn\\": "src/"
+        }
+    }
 }
