@@ -1,6 +1,7 @@
 {
     "name": "avanoz/tmzn",
     "description": "Demo package to show time",
+    "keywords": ["log","logging"],
     "type": "library",
     "homepage": "https://github.com/avanoz/avanoz-tmzn",
     "require": {
@@ -13,6 +14,5 @@
             "email": "avanoz.maximus@gmail.com",
             "homepage": "http://tektokan.com"
         }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
