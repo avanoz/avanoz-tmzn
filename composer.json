@@ -1,0 +1,18 @@
+{
+    "name": "avanoz/tmzn",
+    "description": "Demo package to show time",
+    "type": "library",
+    "homepage": "https://github.com/avanoz/tmzn",
+    "require": {
+        "php": "^5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eko Lesmana Sijabat",
+            "email": "avanoz.maximus@gmail.com",
+            "homepage": "http://tektokan.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
