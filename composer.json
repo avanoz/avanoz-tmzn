@@ -2,7 +2,7 @@
     "name": "avanoz/tmzn",
     "description": "Demo package to show time",
     "type": "library",
-    "homepage": "https://github.com/avanoz/tmzn",
+    "homepage": "https://github.com/avanoz/avanoz-tmzn",
     "require": {
         "php": "^5.6"
     },
